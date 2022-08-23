@@ -5,12 +5,12 @@ Frontend Web Developer
 --------------------------------------------------------------------------------
 
 *   🌍  I Currently Live in Nigeria
-*   🖥️  See my portfolio at [Elerunndu Victor](http://elerunnduvictor.github.io/myportfolio)
+*   🖥️  See my portfolio at [Elerunndu Victor Oluwapelumi](http://elerunnduvictor.github.io/myportfolio)
 *   ✉️  You can contact me at [velerunndu@gmail.com](mailto:velerunndu@gmail.com)
 *   🧠  I'm currently learning Python, JavaScript, and their frame works
 *   🤝  I'm open to collaborating on Frontend Projects
 *   ⚡  I am a Gamer, FIFA, Call of Duty, I really doubt if you can take me 😎 
-<a href="https://www.twitter.com/IyipGodwin" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/K_h_a_l_i_D___" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/IyipGodwin?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
 
@@ -53,7 +53,7 @@ Frontend Web Developer
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/elerunnduvictor/The-Temple-Inn-Suites" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=elerunnduvictor&repo=The-Temple-Inn-Suites&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/elerunnduvictor/chamber" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=elerunnduvictor&repo=chamber&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/elerunnduvictor/The-Temple-Inn-Suites" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=elerunnduvictor&repo=The-Temple-Inn-Suites&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/elerunnduvictor/chamber" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=elerunnduvictor&repo=chamber&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/elerunnduvictor/-Snake-Game" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=elerunnduvictor&repo=-Snake-Game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
