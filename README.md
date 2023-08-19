@@ -7,9 +7,9 @@ Frontend Web Developer
 *   🌍  I Currently Live in Nigeria
 *   🖥️  See my portfolio at [Elerunndu Victor Oluwapelumi](http://elerunnduvictor.github.io/myportfolio)
 *   ✉️  You can contact me at [velerunndu@gmail.com](mailto:velerunndu@gmail.com)
-*   🧠  I'm currently learning Python, JavaScript, and their frame works
-*   🤝  I'm open to collaborating on Frontend Projects
-*   ⚡  I am a Gamer, FIFA, Call of Duty, I really doubt if you can take me 😎 
+*   🧠  I'm currently learning Python, JavaScript, PHP, and their frame works
+*   🤝  I'm open to collaborating on Frontend and Backend Projects
+*   ⚡  In my free time, i play video games and listen to music
 <a href="https://www.twitter.com/K_h_a_l_i_D___" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/K_h_a_l_i_D___?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
