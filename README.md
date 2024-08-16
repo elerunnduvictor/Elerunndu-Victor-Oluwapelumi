@@ -25,13 +25,6 @@ Frontend Web Developer
                     </p>
                     
 
-### Socials
-                  
-<p align="left"> 
-<a href="https://twitter.com/K_h_a_l_i_D___" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
-<a href="https://www.github.com/elerunnduvictor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a href="https://www.instagram.com/khalid__24__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/elerunndu-victor-oluwapelumi-3a3331174" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 ### Badges
 
