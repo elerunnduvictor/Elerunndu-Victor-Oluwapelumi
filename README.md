@@ -1,16 +1,27 @@
 --------------------------------------------------------------------------------
-### Skills
+### Technical Skills
 --------------------------------------------------------------------------------
 
-*   🌍  I Currently Live in Nigeria
-*   🖥️  See my portfolio at [Elerunndu Victor Oluwapelumi](http://elerunnduvictor.github.io/myportfolio)
-*   ✉️  You can contact me at [velerunndu@gmail.com](mailto:velerunndu@gmail.com)
-*   🧠  I'm currently learning Python, JavaScript, PHP, NODE JS and their frame works
-*   🤝  I'm open to collaborating on Frontend and Backend Projects
-*   ⚡  In my free time, i play video games and listen to music
-<a href="https://www.twitter.com/K_h_a_l_i_D___" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/K_h_a_l_i_D___?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
+*   Languages: JavaScript, Python, PHP, C#, SQL
+*   Frameworks: Node JS, React, Express, Mongo DB, CSS Libraries
+*   Tools: Microsoft 365, Google Space, Window Server, Linux (Ubuntu/Fedora), 
+PowerShell, Network Configuration, Operation Systems (Windows and Mac OS), Hard Installation
+
+--------------------------------------------------------------------------------
+### Soft Skills
+--------------------------------------------------------------------------------
+*   Active Listening
+*   Adaptability
+*   Communication
+*   Creativity
+*   Interpersonal Communication
+*   Organisation
+*   Problem Solving
+*   Project Management
+*   Time Management
+*   Work Ethic
+
+
                     
 --------------------------------------------------------------------------------
 ### Badges
